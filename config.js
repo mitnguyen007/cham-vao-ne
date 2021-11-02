@@ -1,5 +1,5 @@
 const nameGirl = 'Minh Thùy';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'hehe';
 const eventName = 'Chạm vào đây nè';
 const titleCard = 'Bất ngờ chưa';
 const contentCard = 'Tháng 11 tràn ngập niềm vui và những nụ cười haha';
